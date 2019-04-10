@@ -16,7 +16,7 @@ InstaWay helps you to win every GiveAway on Instagram.
 One send per Line...
 e.g; 
 (Line 1: @user1 @user2 @user3)
-(Line 1: @user4 @user5 @user6)
+(Line 2: @user4 @user5 @user6)
 ```
 
 ### Run
